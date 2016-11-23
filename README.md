@@ -2,7 +2,7 @@
 
 A Computational Linguistics/NLP reading group at the University of São Paulo with focused on Deep Learning applied to NLP.
 
-### [Spring/Summer Reading Schedule]
+### [Spring/Summer Reading Schedule](https://github.com/edilsonacjr/DeepNILC/wiki/Spring-Summer-2016-2017-Reading-Schedule)
 
 The group will be meeting nearly every Wednesday during the Spring/Summer of 2016/2017 on the NILC Lab from 9-11AM.
 
