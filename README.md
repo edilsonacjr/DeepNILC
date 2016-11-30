@@ -8,6 +8,10 @@ The group will be meeting nearly every Wednesday during the Spring/Summer of 201
 
 Everyone is welcome to participate (faculty and students alike). The only expectation is that participants read the paper scheduled for that week ahead of time and have some previous knowledge in machine learning and neural networks.
 
+## Must read
+
+* [How to read a scientific paper](http://www.sciencemag.org/careers/2016/01/how-read-scientific-paper)
+
 ## Supplementary Material (Covers the basics of machine learning and neural networks)
 
 * [Machine Learning](http://www.deeplearningbook.org/contents/ml.html)
