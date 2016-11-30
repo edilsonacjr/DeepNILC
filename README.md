@@ -15,6 +15,7 @@ Everyone is welcome to participate (faculty and students alike). The only expect
 * [Neural Nets] (http://www.deeplearningbook.org/contents/mlp.html)
 * [Neural Nets - alternative] (http://neuralnetworksanddeeplearning.com/chap1.html)
 * [Deep Learning book](http://www.deeplearningbook.org/)
+* [Neural Networks for NLP](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
 
 
 ## Previous Semesters
