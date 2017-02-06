@@ -1,6 +1,6 @@
 # Are you afraid of Deep Learning?
 
-A Computational Linguistics/NLP reading group at the University of São Paulo with focused on Deep Learning applied to NLP.
+A Computational Linguistics/NLP reading group at the University of São Paulo focused on Deep Learning applied to NLP.
 
 ### [Spring/Summer Reading Schedule](https://github.com/edilsonacjr/DeepNILC/wiki/Spring-Summer-2016-2017-Reading-Schedule)
 
